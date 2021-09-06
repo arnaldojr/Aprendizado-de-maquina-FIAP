@@ -47,14 +47,12 @@ Será considerado para avaliação e correção o ultimo commit do `**dia 16/09/
 
 Os critérios de avaliação do projeto será conforme a rubrica.
 
-- Exploração de Dados (n1 _peso 1_)
-- Preparação de Dados (n2 _peso 2_)
-- Desenvolvimento do Modelo (n3 _peso 2_)
-- Treinamento e Teste do Modelo (n4 _peso 1_)
-- Validação e Otimização do Modelo (n5 _peso 2_)
-- Conclusões Finais (n6 _peso 2_)
-
-Nota Final = n1 + 2 * n2 + 2 * n3 + n4 + 2 * n5 + 2 * n6
+- R1: Exploração de Dados (Até 1 ponto)
+- R2: Preparação de Dados (Até 2 ponto)
+- R3: Desenvolvimento do Modelo (Até 2 ponto)
+- R4: Treinamento e Teste do Modelo (Até 1 ponto)
+- R5: Validação e Otimização do Modelo (Até 2 ponto)
+- R6: Conclusões Finais (Até 2 ponto)
 
 ### Entrega
 
