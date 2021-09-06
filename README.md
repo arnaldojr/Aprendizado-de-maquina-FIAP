@@ -42,6 +42,7 @@ Este projeto poderá ser feito por grupos de `até 2 alunos`.
 
 Será considerado para avaliação e correção o ultimo commit do `**dia 16/09/2021**`
 
+Responda o `forms` :  https://forms.gle/2iivfbMVToXwe9Wc6
 
 ### Rubrica 
 
@@ -54,6 +55,3 @@ Os critérios de avaliação do projeto será conforme a rubrica.
 - R5: Validação e Otimização do Modelo (Até 2 ponto)
 - R6: Conclusões Finais (Até 2 ponto)
 
-### Entrega
-
-Responda o `forms` disponibilizado em aula indicando o repositório do github.
