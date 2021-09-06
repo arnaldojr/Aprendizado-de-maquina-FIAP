@@ -1,10 +1,10 @@
 # Aprendizado de maquina - 4SIA - NAC3 
 
-## Nome do projeto
+## Previsão do valor do carro
 
-![]()
+O [dataset](https://www.kaggle.com/nisargpatel/automobiles/data) para o projeto.
 
-Neste projeto vamos realizar a análise exploratória e aprendizagem de maquina para predição de: ________.
+Neste projeto vamos realizar a análise exploratória e aprendizagem de maquina para predição de valor de carro.
 
 ## Instruções
 
