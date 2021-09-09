@@ -12,7 +12,7 @@ Abaixo algumas instruções básicas para o desenvolvimento.
 
 ### Github:
 
-   - Faça um fork deste repositório.
+   - Faça um clone deste repositório.
    - Torne repositório privado.
    - Mande um invite para o seu grupo participar.  
    - Faça um clone do seu repositório para trabalhar localmente em sua maquina.
